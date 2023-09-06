@@ -1,0 +1,24 @@
+table{
+    border: 2px solid black;
+    margin-top: 130px;
+    margin-left: 50px;
+    height: 350px;
+    width: 270px;
+    background-image: url(http://wallpapercave.com/wp/QJ0trsu.jpg);
+}
+#outputbox{
+    border: 2px solid black;
+    height: 40px;
+    background-color: pink;
+    border: 1px black;
+}
+button{
+    margin-top: 40px;
+    border: 1px black;
+}
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Magnificent-Plain-Wallpaper.jpg);
+    background-image: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
